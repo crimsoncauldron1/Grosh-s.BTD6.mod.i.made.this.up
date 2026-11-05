@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsLNJBkdg8U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\billy\\OneDrive\\Documents\\BTD6 Mod Sources\\Groshyboi\\Groshyboi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\billy\\.nuget\\packages\\btd6modhelper.msbuildtasks\\1.0.0\\btd6modhelper.msbuildtasks.1.0.0.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\btd6modhelper.sourcegenerators\\1.1.1\\btd6modhelper.sourcegenerators.1.1.1.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\billy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\bin\Debug\Groshyboi.deps.json
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\bin\Debug\Groshyboi.dll
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.csproj.AssemblyReference.cache
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.AssemblyInfoInputs.cache
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.AssemblyInfo.cs
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.csproj.CoreCompileInputs.cache
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.dll
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\refint\Groshyboi.dll
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\ref\Groshyboi.dll
+C:\Users\billy\OneDrive\Documents\BTD6 Mod Sources\Groshyboi\obj\Debug\Groshyboi.csproj.Up2Date
